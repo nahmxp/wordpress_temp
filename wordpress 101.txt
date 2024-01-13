@@ -1,0 +1,26 @@
+wordpress 101
+
+steup wordpress via_
+Xmpp_
+localhost
+
+download wordpress from net,__ wordpress.zip fromat___ extract and throw in htdocs,
+
+done.
+
+now open browser, 
+go localhost/phpmyadmin_ create a fresh db;
+go localhost/"wordpress"_ setup_ use "db" name_ password in first phase leave blank, username_"root" pref,,_ second phase provide pass as usename, preff,,, __ provide email, install
+
+1.   https://youtu.be/XkKadPcPFT4?si=4uapA_101gyME4J3 ; for help-- or search setup wordpress with xmpp in yt;
+
+now follow 
+2.   https://www.youtube.com/watch?v=jl8F4WglM3I&t=1278s
+from 17.00 sec
+
+always install___
+All-in-One WP Migration
+plugin...  
+
+##
+watched till 1.7.30 sec
