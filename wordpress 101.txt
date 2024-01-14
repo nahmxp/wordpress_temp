@@ -24,3 +24,8 @@ plugin...
 
 ##
 watched till 1.7.30 sec
+
+## Imp plugins__
+1. all-in-one wp migration--
+2. elementor--
+3. envira gallery -- 
